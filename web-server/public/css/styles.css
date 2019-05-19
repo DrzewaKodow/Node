@@ -40,3 +40,20 @@ header a {
 .portrait {
     width: 250px;
 }
+
+#resultError {
+	color: red;
+}
+
+#searchInput {
+	border: 1px solid #ccc;
+	padding: 8px;
+}
+
+.searchButton {
+	cursor: pointer;
+	border: #888;
+	background: #888;
+	color: white;
+	padding: 8px;
+}
